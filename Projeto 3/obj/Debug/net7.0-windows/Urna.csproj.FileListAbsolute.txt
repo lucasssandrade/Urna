@@ -1,0 +1,17 @@
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\bin\Debug\net7.0-windows\Urna.exe
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\bin\Debug\net7.0-windows\Urna.deps.json
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\bin\Debug\net7.0-windows\Urna.runtimeconfig.json
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\bin\Debug\net7.0-windows\Urna.dll
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\bin\Debug\net7.0-windows\Urna.pdb
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto_3.Properties.Resources.resources
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto_3.Votação.resources
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Urna.csproj.GenerateResource.cache
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Urna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Urna.AssemblyInfoInputs.cache
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Urna.AssemblyInfo.cs
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Urna.csproj.CoreCompileInputs.cache
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Urna.dll
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\refint\Urna.dll
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Urna.pdb
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Urna.genruntimeconfig.cache
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\ref\Urna.dll

@@ -1,0 +1,34 @@
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto_3.Form1.resources
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto_3.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\bin\Debug\net7.0-windows\Projeto 3.exe
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\bin\Debug\net7.0-windows\Projeto 3.deps.json
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\bin\Debug\net7.0-windows\Projeto 3.runtimeconfig.json
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\bin\Debug\net7.0-windows\Projeto 3.dll
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\bin\Debug\net7.0-windows\Projeto 3.pdb
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.dll
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\refint\Projeto 3.dll
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.pdb
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\ref\Projeto 3.dll
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\bin\Debug\net7.0-windows\Projeto 3.exe
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\bin\Debug\net7.0-windows\Projeto 3.deps.json
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\bin\Debug\net7.0-windows\Projeto 3.runtimeconfig.json
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\bin\Debug\net7.0-windows\Projeto 3.dll
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\bin\Debug\net7.0-windows\Projeto 3.pdb
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto_3.Properties.Resources.resources
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto_3.Votação.resources
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.csproj.GenerateResource.cache
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.AssemblyInfoInputs.cache
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.AssemblyInfo.cs
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.csproj.CoreCompileInputs.cache
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.dll
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\refint\Projeto 3.dll
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.pdb
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\Projeto 3.genruntimeconfig.cache
+C:\Users\Venda\Downloads\Projeto 3\Projeto 3\obj\Debug\net7.0-windows\ref\Projeto 3.dll
